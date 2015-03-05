@@ -1,0 +1,418 @@
+
+    ul.img-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+     
+    ul.img-list li {
+      display: inline-block;
+      margin: 0 1em 1em 0;
+      position: relative;
+      width: auto;
+    }
+
+        a.art {
+      color:white;
+    }
+
+    a.art:hover{
+      color:pink;
+    }
+--------------------------------
+    span {
+      background: rgba(0,0,0,0.5);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: auto;
+    }
+     
+    span span {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      width: auto;
+    }
+
+    span {
+      background: rgba(0,0,0,0.5);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: auto;
+      opacity: 0;
+    }
+     
+    ul.img-list li:hover span {
+      opacity: 1;
+    }
+-----------------------------------------------------
+    span.text-content100{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 420px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-contenttest{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 420px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+    span.text-content99{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 328px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content98{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 410px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+
+    span.text-content97{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 297px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+
+    span.text-content96{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 357px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+
+    span.text-content95{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 354px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+
+    span.text-content94{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 424px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+
+    span.text-content93{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 354px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+
+    span.text-content92{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 368px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content91{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 260px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content90{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 392px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content89{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 350px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content88{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 694px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content87{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 418px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content86{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 386px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content85{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 300px;
+      height: 450px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content84{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 295px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content83{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 303px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content82{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 335px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
+
+    span.text-content81{
+      background: rgba(0,0,0,0.7);
+      color: white;
+      cursor: pointer;
+      display: table;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 450px;
+      height: 326px;
+      opacity: 0;
+      -webkit-transition: opacity 500ms;
+      -moz-transition: opacity 500ms;
+      -o-transition: opacity 500ms;
+      transition: opacity 500ms;
+    }
